@@ -1,5 +1,5 @@
 # kickstarter-analysis
-# Kickstarting with Excel
+# Kickstarting with Excel by Kieran Persaud
 
 ## Overview of Project
 
